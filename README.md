@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Hardik — a developer transitioning into data science, driven by the idea of turning raw data into reliable, scalable insights. I focus on writing clean Python code, understanding data behaviour, and building models that actually solve problems instead of just looking good on paper. I’m currently working on projects that sharpen my skills in Python, SQL, data analysis, and visualization using libraries like Pandas, NumPy, Seaborn, and tools like Power BI. Always open to learning, collaborating, and building something meaningful with data.
 
-<!--
-**HARDIKJODHANI27/HARDIKJODHANI27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hardikjodhani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardikjodhani27@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HARDIKJODHANI27&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HARDIKJODHANI27&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARDIKJODHANI27&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
