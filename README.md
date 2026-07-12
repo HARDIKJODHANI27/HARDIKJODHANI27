@@ -3,13 +3,13 @@ Hi, I’m Hardik — a developer transitioning into data science, driven by the 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikjodhani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-jodhani/)
 
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-Python, SQL
+Python, SQL, Java, C, C++
 
 ### 📊 Data & Visualization
 Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
@@ -18,4 +18,4 @@ Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
 MySQL, SQLite
 
 ### 🛠️ Tools
-Git, GitHub, Jupyter, VS Code, Excel
+Git, GitHub, Jupyter, VS Code, Excel, Google Colab
