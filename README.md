@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Hardik — a developer transitioning into data analytics, driven by the idea of turning raw data into reliable, scalable insights. I focus on writing clean Python code, understanding data behaviour, and building models that actually solve problems instead of just looking good on paper. I’m currently working on projects that sharpen my skills in Python, SQL, data analysis, and visualization using libraries like Pandas, NumPy, Seaborn, and tools like Power BI. Always open to learning, collaborating, and building something meaningful with data.
+
+Hi, I'm Hardik — a Computer Science student passionate about data analytics, driven by the idea of turning raw data into reliable, scalable insights. I focus on writing clean Python code, understanding data behaviour, and building models that actually solve problems instead of just looking good on paper. I’m currently working on projects that sharpen my skills in Python, SQL, data analysis and visualization using Pandas, NumPy, Seaborn, and Power BI.
 
 
 ## 🌐 Socials:
