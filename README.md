@@ -16,7 +16,7 @@ Python, SQL, Java, C, C++
 Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
 
 ### 🗄️ Databases
-MySQL, SQLite
+MySQL, SQLite, MSSQL
 
 ### 🛠️ Tools
 Git, GitHub, Jupyter, VS Code, Excel, Google Colab
