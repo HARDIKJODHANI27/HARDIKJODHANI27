@@ -13,10 +13,10 @@ Hi, I'm Hardik — a Computer Science student passionate about data analytics, d
 Python, SQL, Java, C, C++
 
 ### 📊 Data & Visualization
-Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX
+Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX, Streamlit
 
 ### 🗄️ Databases
-MySQL, SQLite, MSSQL
+MySQL, SQLite, MSSQL, OracleDB
 
 ### 🛠️ Tools
-Git, GitHub, Jupyter, VS Code, Excel, Google Colab
+Git, GitHub, Jupyter Notebook, VS Code, Excel, Google Colab
